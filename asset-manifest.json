@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movieapp.github.io/static/css/main.62511e82.chunk.css",
+    "main.js": "/movieapp.github.io/static/js/main.e82290ea.chunk.js",
+    "main.js.map": "/movieapp.github.io/static/js/main.e82290ea.chunk.js.map",
+    "runtime-main.js": "/movieapp.github.io/static/js/runtime-main.f20df343.js",
+    "runtime-main.js.map": "/movieapp.github.io/static/js/runtime-main.f20df343.js.map",
+    "static/js/2.a5b06a48.chunk.js": "/movieapp.github.io/static/js/2.a5b06a48.chunk.js",
+    "static/js/2.a5b06a48.chunk.js.map": "/movieapp.github.io/static/js/2.a5b06a48.chunk.js.map",
+    "index.html": "/movieapp.github.io/index.html",
+    "precache-manifest.e54cd4a959c4051453fad6a23f017c4f.js": "/movieapp.github.io/precache-manifest.e54cd4a959c4051453fad6a23f017c4f.js",
+    "service-worker.js": "/movieapp.github.io/service-worker.js",
+    "static/css/main.62511e82.chunk.css.map": "/movieapp.github.io/static/css/main.62511e82.chunk.css.map",
+    "static/js/2.a5b06a48.chunk.js.LICENSE": "/movieapp.github.io/static/js/2.a5b06a48.chunk.js.LICENSE",
+    "static/media/reactMovie_logo.png": "/movieapp.github.io/static/media/reactMovie_logo.08494abf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f20df343.js",
+    "static/js/2.a5b06a48.chunk.js",
+    "static/css/main.62511e82.chunk.css",
+    "static/js/main.e82290ea.chunk.js"
+  ]
+}
